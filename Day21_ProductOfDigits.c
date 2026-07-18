@@ -9,5 +9,5 @@ void main()
         digit = num % 10;
         product *= digit;
     }
-    printf("Product of digits = %lld\n", product);
+    printf("Product of digits = %d\n", product);
 }
